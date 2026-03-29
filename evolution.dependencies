@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "device_google_muzel",
+    "target_path": "device/google/muzel"
+  },
+  {
+    "repository": "vendor_google_mustang",
+    "target_path": "vendor/google/mustang"
+  }
+]
